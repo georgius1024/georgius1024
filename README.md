@@ -1,6 +1,6 @@
 ### Hi there 👋
 Yurii Timofeev, developer, teacher
 
-- 🔭 I’m currently working on EPAM
+- 🔭 I’m currently working for SmartrMail
 - 🌱 I’m currently learning English
-- 👯 I’m looking to collaborate on OTUS
+- 👯 I’m teacher on OTUS
