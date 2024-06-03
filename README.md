@@ -1,6 +1,6 @@
 ### Hi there 👋
 Yurii Timofeev, developer, teacher
 
-- 🔭 I’m currently working for SmartrMail
-- 🌱 I’m currently learning English
-- 👯 I’m teacher on OTUS
+- 🔭 I’m currently working for Relay commerce
+- 🌱 I’m passionate about Javascript 
+- 👯 I’m teacher at OTUS online school
